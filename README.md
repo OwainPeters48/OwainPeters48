@@ -12,7 +12,7 @@
 - 🎓 Computer Science graduate from Swansea University  
 - 🛡️ Freelance smart contract security researcher focused on real-world exploits and secure protocol design  
 - 📚 Building PoCs, writing audit reports, and sharing insights publicly  
-- 🛠️ Tools: Solidity, Foundry, Slither, MythX, VSCode, GitHub, and testnet deployments  
+- 🛠️ Tools: Solidity, C++, Foundry, Slither, MythX, VSCode, GitHub, and testnet deployments  
 - 🧵 Daily progress & findings shared on [X (Twitter)](https://twitter.com/0xOwain)
 
 ---
@@ -25,6 +25,12 @@
 - 🏠 [**property-nft-system**](https://github.com/OwainPeters48/property-nft-system)  
   University project: ERC-721-based property transaction system with listing, escrow, and NFT storage logic.
 
+- 🧠 [**MiniSlither++**](https://github.com/OwainPeters48/MiniSlither-)
+  Lightweight C++17 static analyzer for Solidity smart contracts — detects 30+ vulnerability patterns (SWC-style), maps functions & contracts, and generates Markdown audit   reports with full project summaries.
+
+- ⚙️ [**cpp-security-learning-log**](https://github.com/OwainPeters48/cpp-security-learning-log)
+  Personal C++ security repo with custom analyzers, bytecode verifiers, and vulnerability detection tools built while studying low-level and smart contract security.
+
 ---
 
 ### 🛠️ Currently Exploring
@@ -34,6 +40,8 @@
 - Code4rena audit contests & private audit repo structures  
 - Vulnerability discovery from the [SWC Registry](https://swcregistry.io)  
 - Scaling from mock audits to paid freelance work
+- C++ Security Learning
+- Rust Security Learning
 
 ---
 
