@@ -2,6 +2,7 @@
 
 <p align="center">
   <strong>CS Graduate | Smart Contract Security Researcher</strong><br/>
+  <strong>Currently applying to DeFi algorithmic trading and smart contract engineering roles.</strong><br/>
   Solidity · Web3 Security · Audit Reports · PoCs · Foundry
 </p>
 
@@ -10,7 +11,7 @@
 ### 🧠 About Me
 
 - 🎓 Computer Science graduate from Swansea University  
-- 🛡️ Freelance smart contract security researcher focused on real-world exploits and secure protocol design  
+- 🛡️ Computer Science graduate exploring smart contract security, DeFi systems, and algorithmic trading engineering
 - 📚 Building PoCs, writing audit reports, and sharing insights publicly  
 - 🛠️ Tools: Solidity, C++, Foundry, Slither, MythX, VSCode, GitHub, and testnet deployments  
 - 🧵 Daily progress & findings shared on [X (Twitter)](https://twitter.com/0xOwain)
@@ -35,13 +36,10 @@
 
 ### 🛠️ Currently Exploring
 
-- Real client outreach & early-stage audits  
-- Fuzzing, invariants, and advanced testing patterns  
-- Code4rena audit contests & private audit repo structures  
-- Vulnerability discovery from the [SWC Registry](https://swcregistry.io)  
-- Scaling from mock audits to paid freelance work
-- C++ Security Learning
-- Rust Security Learning
+- DeFi algorithmic trading systems and on-chain data modelling
+- Fuzzing, invariants, and advanced testing patterns
+- Code4rena and private audit contests
+- Expanding Python + Rust for DeFi simulation and MEV analysis
 
 ---
 
