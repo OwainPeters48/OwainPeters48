@@ -2,8 +2,8 @@
 
 <p align="center">
   <strong>CS Graduate | Smart Contract Security Researcher</strong><br/>
-  <strong>Currently applying to DeFi algorithmic trading and smart contract engineering roles.</strong><br/>
-  Solidity · Web3 Security · Audit Reports · PoCs · Foundry
+  <strong>Currently applying to Security-Based Roles.</strong><br/>
+  Solidity · Web3 Security · Web2 Security · Audit Reports · PoCs · Foundry
 </p>
 
 ---
